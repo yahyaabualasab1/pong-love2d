@@ -1,7 +1,6 @@
 # Pong in LÖVE2D
 
-**Name:** Yahya Abu Alasab  
-**Class/section:** To be supplied
+**Name:** Yahya Abu Alasab
 
 A two-player Pong game built with Lua and LÖVE2D. Players share one keyboard and move rectangular paddles to keep a ball in play. The ball starts in the middle, bounces off the top and bottom walls, and reverses direction when it hits a paddle. Paddles stay inside the window, and a missed ball automatically returns to the center for another rally. Movement uses elapsed time so the game runs at the same speed across different frame rates.
 
