@@ -34,6 +34,8 @@ After every paddle hit, both velocity components of the ball increase by 5%. Thi
 
 ## Short demo
 
-[Watch or download the gameplay video (MP4)](demo/gameplay.mp4)
+[Watch the gameplay video on Google Drive](https://drive.google.com/file/d/1yaxUILHCVxwWMJRfBA-aI48Z53lPIg40/view?usp=sharing)
+
+[Download the gameplay video from this repository (MP4)](demo/gameplay.mp4)
 
 The screenshot and demo show a real gameplay session controlled manually with W/S and the arrow keys, recorded from the running LÖVE game.
